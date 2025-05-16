@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: DISARM-AI
-Version: 0.1
-Author: Muhammed Rasin
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: setuptools
-Requires-Dist: kagglehub
