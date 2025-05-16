@@ -1,0 +1,27 @@
+2025-05-16 16:49:49,849 - INFO - Starting data ingestion process
+2025-05-16 16:49:49,849 - INFO - Created directory: artifacts/raw
+2025-05-16 16:49:49,849 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-16 16:49:49,849 - ERROR - Error downloading dataset: module 'kagglehub' has no attribute 'download_dataset'
+2025-05-16 16:49:49,849 - ERROR - Error in data ingestion process: Error occurred in script: [/Users/muhammedrasin/DisarmAI/src/data_ingestion.py] at line number: [58] error message: [Error downloading dataset: module 'kagglehub' has no attribute 'download_dataset']
+2025-05-16 16:50:38,590 - INFO - Starting data ingestion process
+2025-05-16 16:50:38,590 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-16 16:50:38,590 - ERROR - Error downloading dataset: module 'kagglehub' has no attribute 'download_dataset'
+2025-05-16 16:50:38,590 - ERROR - Error in data ingestion process: Error occurred in script: [/Users/muhammedrasin/DisarmAI/src/data_ingestion.py] at line number: [58] error message: [Error downloading dataset: module 'kagglehub' has no attribute 'download_dataset']
+2025-05-16 16:51:02,704 - INFO - Starting data ingestion process
+2025-05-16 16:51:02,704 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-16 16:51:02,704 - ERROR - Error downloading dataset: load_dataset() missing 2 required positional arguments: 'handle' and 'path'
+2025-05-16 16:51:02,704 - ERROR - Error in data ingestion process: Error occurred in script: [/Users/muhammedrasin/DisarmAI/src/data_ingestion.py] at line number: [58] error message: [Error downloading dataset: load_dataset() missing 2 required positional arguments: 'handle' and 'path']
+2025-05-16 16:51:43,127 - INFO - Starting data ingestion process
+2025-05-16 16:51:43,127 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-16 16:51:47,225 - INFO - Images folder not found in /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1
+2025-05-16 16:51:47,225 - INFO - Labels folder not found in /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1
+2025-05-16 16:51:47,225 - INFO - Dataset downloaded and extracted to: artifacts/raw
+2025-05-16 16:51:47,225 - INFO - Data ingestion process completed successfully
+2025-05-16 16:55:09,565 - INFO - Starting data ingestion process
+2025-05-16 16:55:09,565 - INFO - Downloading dataset: issaisasank/guns-object-detection
+2025-05-16 16:55:10,215 - INFO - Copied image folder from /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1/Images to artifacts/raw/Images
+2025-05-16 16:55:10,291 - INFO - Copied label folder from /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1/Labels to artifacts/raw/Labels
+2025-05-16 16:55:10,361 - INFO - Copied image folder from /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1/repository/SasankYadati-Guns-Dataset-0eb7329/Images to artifacts/raw/Images
+2025-05-16 16:55:10,438 - INFO - Copied label folder from /Users/muhammedrasin/.cache/kagglehub/datasets/issaisasank/guns-object-detection/versions/1/repository/SasankYadati-Guns-Dataset-0eb7329/Labels to artifacts/raw/Labels
+2025-05-16 16:55:10,439 - INFO - Dataset downloaded and extracted to: artifacts/raw
+2025-05-16 16:55:10,439 - INFO - Data ingestion process completed successfully
