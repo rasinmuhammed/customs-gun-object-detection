@@ -1,0 +1,4 @@
+venv/
+artifacts/raw/
+artifacts/models/
+customs_gun_object_detection.egg-info/

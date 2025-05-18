@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="DISARM-AI",
+    name="customs-gun-object-detection",
     version="0.1",
     author="Muhammed Rasin",
     packages=find_packages(),

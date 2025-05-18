@@ -1,4 +1,4 @@
-#!/Users/muhammedrasin/DisarmAI/venv/bin/python
+#!/Users/muhammedrasin/customs-gun-object-detection/customs-gun-object-detection/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
